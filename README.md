@@ -1,6 +1,7 @@
 # LevelLibrary
 
 A quality-of-life mod for A Dance of Fire and Ice. It started as "a level picker with search" and grew into a whole toolbox over time. Built for UnityModManager.
+Includes integration with Iridium and a built-in YCH effect removal feature.
 
 ## What it does
 
@@ -41,3 +42,4 @@ The mod talks to your game installation (and to the mod's update server for vers
 ---
 
 *made by luo, with help from cheng*
+
