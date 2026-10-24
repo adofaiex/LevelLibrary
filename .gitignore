@@ -1,0 +1,14 @@
+# build output
+bin/
+obj/
+
+# IDE / session
+.vs/
+.zcode/
+*.user
+
+# assets: NOT MIT licensed, copyright belongs to their authors - never redistribute here
+assets/
+
+# local debug leftovers
+*.zip
